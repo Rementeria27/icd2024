@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# icd2024/Project
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Esta carpeta contiene los ejercicios del curso de Introducción a la Ciencia de Datos relacionados al proyecto del curso.
